@@ -3,7 +3,7 @@ x = y = 'Not available.'
 print('$g++ Test.cpp')
 x = os.system('g++ Test.cpp')
 if ( x == 0):
-    print('$./a.exe')
-    y = os.system('./a.exe')
+    print('$./a.out')
+    y = os.system('./a.out')
 print
 print('x = '+str(x)+'\ny = '+str(y))
