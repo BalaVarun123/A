@@ -1,4 +1,4 @@
-#A
+
 This project contains five files namely - cc,cccpp,ce,cec,cj.
 This files are used for shorthand for compiling and running C,C++,Python and Java files in Linux platform.
 These files are written in Python.
